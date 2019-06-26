@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/launch_screen" android:scaleType="centerCrop" />
+    <ProgressBar
+        android:id="@+id/loading_indicator"
+        android:layout_width="30dp"
+        android:layout_height="150dp"
+        android:layout_centerInParent="true"
+        android:paddingTop="110dp">
+    </ProgressBar>
+</RelativeLayout>
