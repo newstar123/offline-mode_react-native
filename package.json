@@ -23,7 +23,7 @@
     "formik": "^1.5.7",
     "graphql": "^14.3.1",
     "graphql-tag": "^2.10.1",
-    "moment-timezone": "^0.5.25",
+    "moment-timezone": "^0.5.35",
     "react": "^16.6.3",
     "react-apollo": "^2.5.6",
     "react-art": "^16.8.6",
